@@ -7,7 +7,7 @@ Regarding the weeks;
 ## Weeks
 - [x] [1. Week - 4 October 2023 Wednesday](01_04_10_2023.md)
 - [x] [2. Week - 11 October 2023 Wednesday](02_11_10_2023.md)
-- [ ] [3. Week - 18 October 2023 Wednesday](03_18_10_2023.md)
+- [x] [3. Week - 18 October 2023 Wednesday](03_18_10_2023.md)
 - [ ] [4. Week - 25 October 2023 Wednesday](04_25_10_2023.md)
 - [ ] [5. Week - 1 November 2023 Wednesday](05_01_11_2023.md)
 - [ ] [6. Week - 8 November 2023 Wednesday](06_08_11_2023.md)
